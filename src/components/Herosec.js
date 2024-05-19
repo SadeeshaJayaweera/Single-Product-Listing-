@@ -90,11 +90,11 @@ const Herosec = () => {
                 </p>
               </div>
               <p className="hero-para">
-                Indulge in the epitome of luxury at our air-conditioned house in Kandy.
-                Nestled amidst lush greenery, this elegantly designed retreat offers modern
-                amenities and plush furnishings for a comfortable stay. Relax in the spacious living areas,
-                whip up meals in the fully equipped kitchen, and savor breathtaking views from the private balcony.
-                Retreat to luxurious bedrooms with en-suite bathrooms for a peaceful night's sleep.
+                A brand-new house for rent in Heerassagala, Kandy for residential use.
+                A beautiful two bedrooms house with attached toilets, living room, dining room,
+                kitchen with pantry, garage with roller doors (3 parking slots) and beautiful
+                lawn garden with panoramic view of the mountains. Gated community with very peaceful
+                and decent neighbourhood.
               </p>
             </div>
           </div>
